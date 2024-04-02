@@ -21,13 +21,10 @@
 </div>
 :woman_technologist: About Me :
 I am a Computer Science graduate student at Rutgers University - New Brunswick.I love to :
-* Research on the newest topics in the field
-* Work on cool projects
-* Participate in Competitions
-* Item
-* Item
-- Item
-- Item
+- Research on the newest topics in the field
+- Work on cool projects
+- Participate in Competitions
+
 
 <!--
 **IshaanSamant/IshaanSamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
