@@ -21,14 +21,10 @@
 </div>
 :woman_technologist: About Me :
 I am a Computer Science graduate student at Rutgers University - New Brunswick.I love to :
-* Research on the newest topics in the field
+* Research on the latest tech
 * Work on cool projects
-* Participate in Competitions
+* Paricitpate in Competitions
 
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
 
 <!--
