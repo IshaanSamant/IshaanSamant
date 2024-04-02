@@ -21,9 +21,9 @@
 </div>
 :woman_technologist: About Me :
 I am a Computer Science graduate student at Rutgers University - New Brunswick.I love to :
-- Research on the newest topics in the field
-- Work on cool projects
-- Participate in Competitions
+* Research on the newest topics in the field
+* Work on cool projects
+* Participate in Competitions
 
 * Bullet list
               * Nested bullet
