@@ -25,6 +25,11 @@ I am a Computer Science graduate student at Rutgers University - New Brunswick.I
 - Work on cool projects
 - Participate in Competitions
 
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 
 <!--
 **IshaanSamant/IshaanSamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
